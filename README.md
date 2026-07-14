@@ -1,8 +1,11 @@
 # Hi, I'm Saadgi Puniwala 👋
 
 🎓 B.Tech CSE (Data Science) @ Dayananda Sagar University
+
 🔭 Building at the intersection of **AI, IoT, and Data Science**
+
 🌱 Currently strengthening DSA in C++ and exploring ML/embedded projects
+
 📍 Bangalore, India
 
 ---
@@ -41,16 +44,15 @@
 
 ### 🎯 Currently Working On
 
-- 500+ LeetCode Journey
-- AWS Cloud
-- GenAI Projects
+- 150+ LeetCode Journey
+- AI/ML Projects
 - Kaggle Competitions
 
 ---
 
 ### 🏆 Achievements
 
-- Selected Team Participant — Smart India Hackathon (SIH)
+- Internal Selected Team Participant — Smart India Hackathon (SIH)
 - Participant — Code Clash, Dayananda Sagar University
 
 ---
