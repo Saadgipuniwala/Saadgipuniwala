@@ -25,7 +25,28 @@
 
 ### 🛠️ Tech Stack
 
-`Python` · `C++` · `SQL` · `Machine Learning` · `IoT (ESP32)` · `Flask` · `Data Analysis`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saadgipuniwala&show_icons=true&theme=radical&hide_border=true" alt="Saadgi's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadgipuniwala&theme=radical&hide_border=true" alt="Saadgi's GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadgipuniwala&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
@@ -41,3 +62,4 @@
 [LinkedIn](https://linkedin.com/in/saadgi-puniwala-51a43a31a) · saadgipuniwala07@gmail.com
 
 ⭐️ Open to Software Development, Data Analytics, and AI/ML internship opportunities!
+
