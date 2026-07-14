@@ -2,8 +2,11 @@
 # Hi, I'm Saadgi Puniwala 👋
 
 🎓 B.Tech CSE (Data Science) @ Dayananda Sagar University
+
 🔭 Building at the intersection of **AI, IoT, and Data Science**
+
 🌱 Currently strengthening DSA in C++ and exploring ML/embedded projects
+
 📍 Bangalore, India
 
 ---
