@@ -107,6 +107,23 @@ open_to: "AI/ML & Data Science Internships"
 
 ---
 
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saadgipuniwala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9A7&icon_color=7F00FF&text_color=c9d1d9"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Saadgipuniwala&theme=dark&hide_border=true&background=0d1117&ring=00C9A7&fire=7F00FF&currStreakLabel=00C9A7"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadgipuniwala&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9A7&text_color=c9d1d9"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saadgipuniwala&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C9A7&line=7F00FF&point=ffffff" width="100%"/>
+</p>
+
+---
+
 ### 📈 LeetCode Stats
 
 <p align="center">
@@ -126,3 +143,4 @@ open_to: "AI/ML & Data Science Internships"
 </p>
 
 <p align="center"><i>"Turning ideas into intelligent systems."</i></p>
+
