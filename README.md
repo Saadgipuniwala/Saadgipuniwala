@@ -1,9 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9A7&height=200&section=header&text=SAADGI%20PUNIWALA&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI/ML%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Embedded%20Systems&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9A7&height=200&section=header&text=SAADGI%20PUNIWALA&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI/ML%20Engineer%20•%20Data%20Science%20•%20Embedded%20Systems&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 </p>
 
-<h3 align="center">Turning ideas into intelligent systems.</h3>
+<h3 align="center">
+Building AI-powered solutions with Machine Learning, Data Science & Intelligent Embedded Systems.
+</h3>
 
 <p align="center">
   <a href="https://saadgi-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -13,78 +15,140 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CGPA-9.09%2F10-00C9A7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20AI%2FML%20Internships-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CGPA-9.09/10-00C9A7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20To-AI%2FML%20%26%20Data%20Science%20Internships-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-blue?style=flat-square"/>
 </p>
 
 ---
 
-### 👋 About
+# 👋 About Me
 
-I'm Saadgi Puniwala, a Computer Science (Data Science) undergraduate at **Dayananda Sagar University**, currently maintaining a **9.09 CGPA**.
+Hi! I'm **Saadgi Puniwala**, a **B.Tech Computer Science (Data Science)** student at **Dayananda Sagar University** with a **9.09 CGPA**.
 
-My interests sit at the intersection of **AI/ML, data science, and embedded systems** — I like turning ideas into practical, working systems by combining software with real-world hardware. My primary focus is AI/ML (models, pipelines, dashboards), with embedded/IoT engineering as a strong secondary track.
+I'm passionate about building intelligent software that combines **Machine Learning, Data Science, and Embedded Systems** to solve real-world problems. My work spans predictive analytics, IoT, data visualization, and AI-powered applications, with a strong focus on creating practical, end-to-end solutions.
 
-Over the past two years I've built projects ranging from ML prediction models and RF signal intelligence dashboards to IoT-based sensor systems, while steadily strengthening my DSA and problem-solving through consistent LeetCode practice.
-
-Currently preparing for AI/ML and Data Science internship opportunities through hands-on projects, research, and continuous learning.
+Alongside project development, I actively strengthen my problem-solving skills through **Data Structures & Algorithms**, continuous learning, and hands-on experimentation with modern AI technologies.
 
 ```yaml
-role: "AI/ML Engineer (Student)"
-location: "Bengaluru, India"
-education: "B.Tech CSE (Data Science) @ Dayananda Sagar University"
-focus: "AI/ML (primary), Embedded Systems & IoT (secondary)"
-currently_building: "Forest Fire Prediction System (Uttarakhand, weather + satellite data)"
-open_to: "AI/ML & Data Science Internships"
+Role: AI/ML Engineer (Student)
+Education: B.Tech CSE (Data Science)
+University: Dayananda Sagar University
+Location: Bengaluru, India
+
+Primary Focus:
+  - Machine Learning
+  - Data Science
+  - Predictive Analytics
+
+Secondary Focus:
+  - Embedded Systems
+  - IoT
+  - Intelligent Automation
+
+Currently Building:
+  - Forest Fire Prediction System using Weather & Satellite Data
+
+Currently Learning:
+  - Deep Learning
+  - Computer Vision
+  - Google Data Analytics
+
+Open To:
+  - AI/ML Internships
+  - Data Science Internships
+  - Software Engineering Internships
 ```
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| **Student Performance Prediction** | ML pipeline forecasting academic outcomes across 1,000+ student records | Python, Pandas, Scikit-learn, Matplotlib | [Source](https://github.com/Saadgipuniwala/Student-Performance-Prediction) |
-| **RF Signal Intelligence Dashboard** | Interactive ML dashboard for RF signal visualization & modulation classification | Python, Streamlit, NumPy, Scikit-learn | [Source](https://github.com/Saadgipuniwala/rf-signal-dashboard-synktra) |
-| **Overhead Conductor Fault Detection** | IoT-enabled platform for real-time monitoring of low-voltage overhead conductors | Python, Flask, ESP32, LoRa, Raspberry Pi | [Source](https://github.com/Saadgipuniwala/overhead-conductor-sih) • [Live Demo](https://overhead-conductor-fault-detection-1.onrender.com) |
-| **Smart Window Ventilation System** | Autonomous IoT ventilation system reacting to temp, humidity, rain & occupancy | ESP32, Arduino, Python, Flask | [Source](https://github.com/Saadgipuniwala/AI-Powerd-Smart-window--ventilation--_ENV_control) • [Live Demo](https://saadgipuniwala.github.io/AI-Powerd-Smart-window--ventilation--_ENV_control/) |
+## 🎓 Student Performance Prediction
 
----
+Built an end-to-end machine learning pipeline to predict student academic performance using supervised learning techniques.
 
-### 🧠 Currently Working On
+**Tech Stack**
 
-- 🔥 **Forest Fire Prediction System** — early warning system for Uttarakhand using weather, satellite & environmental data
-- 🧩 **DSA / LeetCode** — pushing from 50+ → 150+ → 300+ problems solved
-- 📊 **Google Data Analytics Professional Certificate** — in progress
+Python • Pandas • Scikit-learn • Matplotlib • Streamlit
+
+🔗 GitHub
 
 ---
 
-### 🛠️ Tech Stack
+## 📡 RF Signal Intelligence Dashboard
 
-**AI / ML**
+Interactive dashboard for RF signal visualization, preprocessing, and modulation classification.
+
+**Tech Stack**
+
+Python • Streamlit • NumPy • Scikit-learn
+
+🔗 GitHub
+
+---
+
+## ⚡ Overhead Conductor Fault Detection
+
+IoT-enabled monitoring platform for detecting faults in low-voltage overhead conductors with real-time visualization.
+
+**Tech Stack**
+
+ESP32 • Flask • Python • Raspberry Pi • LoRa
+
+🔗 GitHub • Live Demo
+
+---
+
+## 🌿 Smart Window Ventilation System
+
+Autonomous IoT-based ventilation system that responds to temperature, humidity, rain, occupancy, and ambient light.
+
+**Tech Stack**
+
+ESP32 • Arduino • Flask • Python
+
+🔗 GitHub • Live Demo
+
+---
+
+# 🌱 Currently Working On
+
+- 🔥 Forest Fire Prediction System using weather, satellite, and environmental datasets
+- 🧩 Strengthening DSA through consistent LeetCode practice
+- 📊 Google Data Analytics Professional Certificate
+- 🤖 Exploring Deep Learning and Computer Vision
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming Languages
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### AI / Machine Learning
+
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 
-**Languages**
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### Backend & Visualization
 
-**Web / Systems**
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Embedded / IoT**
+### Embedded Systems
+
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-**Tools**
+### Tools
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -92,55 +156,53 @@ open_to: "AI/ML & Data Science Internships"
 
 ---
 
-### 🏆 Certifications
+# 🏆 Certifications
 
-| Certificate | Issuer | Year |
-|---|---|---|
-| Python for Data Science | NPTEL (Elite — Top 5%) | 2026 |
-| Introduction to Data Visualization | Simplilearn | 2026 |
-| Intro to Machine Learning | Kaggle | 2026 |
-| MATLAB Onramp | MathWorks | 2025 |
-| Introduction to Symbolic Math with MATLAB | MathWorks | 2025 |
-| Programming Using Java | Infosys Springboard | 2025 |
-| Programming Using JavaScript | Infosys Springboard | 2025 |
-| Google Data Analytics Professional Certificate | Google | In Progress |
+| Certification | Issuer |
+|---------------|--------|
+| Python for Data Science (Elite – Top 5%) | NPTEL |
+| Google Data Analytics Professional Certificate *(In Progress)* | Google |
+| Introduction to Machine Learning | Kaggle |
+| Introduction to Data Visualization | Simplilearn |
+| MATLAB Onramp | MathWorks |
+| Introduction to Symbolic Math with MATLAB | MathWorks |
+| Programming Using Java | Infosys Springboard |
+| Programming Using JavaScript | Infosys Springboard |
 
 ---
 
-### 📊 GitHub Stats & Activity
+# 📈 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saadgipuniwala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9A7&icon_color=7F00FF&text_color=c9d1d9"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Saadgipuniwala&theme=dark&hide_border=true&background=0d1117&ring=00C9A7&fire=7F00FF&currStreakLabel=00C9A7"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saadgipuniwala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9A7&icon_color=7F00FF&text_color=c9d1d9"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SaadgiPuniwala&theme=dark&hide_border=true&background=0d1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadgipuniwala&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9A7&text_color=c9d1d9"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saadgipuniwala&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C9A7&line=7F00FF&point=ffffff" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadgipuniwala&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
 </p>
 
 ---
 
-### 📈 LeetCode Stats
+# 💻 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Saadgi_puniwala?theme=dark&font=Baloo%202&ext=heatmap" alt="Saadgi's LeetCode stats"/>
+<img src="https://leetcard.jacoblin.cool/Saadgi_puniwala?theme=dark&font=Baloo%202&ext=heatmap"/>
 </p>
 
 ---
 
-### 🔗 Connect
+# 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://saadgi-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/saadgi-puniwala-51a43a31a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Saadgipuniwala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Saadgi_puniwala/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="mailto:saadgipuniwala07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://saadgi-portfolio-omega.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/saadgi-puniwala-51a43a31a">LinkedIn</a> •
+<a href="https://github.com/SaadgiPuniwala">GitHub</a> •
+<a href="https://leetcode.com/u/Saadgi_puniwala/">LeetCode</a> •
+<a href="mailto:saadgipuniwala07@gmail.com">Email</a>
 </p>
 
-<p align="center"><i>"Turning ideas into intelligent systems."</i></p>
-
+<p align="center">
+<i>Building intelligent systems through AI, data, and software engineering.</i>
+</p>
