@@ -34,7 +34,7 @@ role: "AI/ML Engineer (Student)"
 location: "Bengaluru, India"
 education: "B.Tech CSE (Data Science) @ Dayananda Sagar University"
 focus: "AI/ML & Data Analytics (primary), Embedded Systems & IoT (secondary)"
-currently_building: "Forest Fire Prediction System (Uttarakhand, weather + satellite data)"
+currently_building: "Forecast integration for FIRELINE (live 5-day fire risk prediction)"
 open_to: "AI/ML & Data Science Internships"
 ```
 
@@ -44,6 +44,7 @@ open_to: "AI/ML & Data Science Internships"
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
+| **FIRELINE — Forest Fire Risk Prediction** | ML system predicting forest fire risk across Uttarakhand's 4 highest-risk districts using weather, NDVI & terrain data — Random Forest model, 93% recall on 2024 fire season validation, live dashboard | Python, Pandas, Scikit-learn, XGBoost, Google Earth Engine, Flask | [Source](https://github.com/Saadgipuniwala/forest-fire-risk-prediction) • [Live Demo](https://forest-fire-risk-prediction.onrender.com) |
 | **Banking Customer Analytics Dashboard** | 7-table PostgreSQL database, 16 SQL queries & 3 views, 4-page Power BI dashboard on 5,000+ customer records | PostgreSQL, SQL, Power BI, Python (Pandas) | [Source](https://github.com/Saadgipuniwala/banking-customer-analytics-dashboard) |
 | **Student Performance Prediction** | ML pipeline forecasting academic outcomes, 85%+ accuracy across 1,000+ student records | Python, Pandas, Scikit-learn, Matplotlib | [Source](https://github.com/Saadgipuniwala/Student-Performance-Prediction) |
 | **RF Signal Intelligence Dashboard** | Interactive ML dashboard for RF signal visualization & modulation classification | Python, Streamlit, NumPy, Scikit-learn | [Source](https://github.com/Saadgipuniwala/rf-signal-dashboard-synktra) |
